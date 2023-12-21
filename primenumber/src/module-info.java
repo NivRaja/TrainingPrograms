@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author suvni
+ *
+ */
+module primenumber {
+}
